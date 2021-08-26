@@ -20,6 +20,7 @@
 [<img align="left" alt="faizulislamfair | Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
