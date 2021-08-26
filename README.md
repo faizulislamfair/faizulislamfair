@@ -3,10 +3,11 @@
 
 ## I'm a Student, Developer and Guitarist!
 
--  I’m pretty much trying to grab a stack 
--  Looking to collaborate with other developers
--  2021 Goals: To get showered with positivity
--  I love to play guitar, harmonica & piano/keyboard
+-  I’m pretty much trying to grab a stack!
+-  Looking to collaborate with other developers!
+-  2021 Goals: To get showered with positivity!
+-  I love to play guitar, harmonica & piano/keyboard!
+-  Let's talk about the things which keep you alive & wreak havoc in your senses!
 
 
 ### We can have coffee conversations here:
