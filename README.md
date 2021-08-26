@@ -45,6 +45,12 @@
 [pinterest]: https://www.pinterest.com/Fair_Fair_Fair/
 [instagram]: https://www.instagram.com/_rose_coloured_glasses/
 
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizulislamfair&layout=compact)](https://github.com/faizulislamfair/github-readme-stats)
+
+
 
 
 
