@@ -6,7 +6,7 @@
 -  I’m pretty much trying to grab a stack 
 -  Looking to collaborate with other developers
 -  2021 Goals: To get showered with positivity
--  I love to play guitar, harmonica & piano
+-  I love to play guitar, harmonica & piano/keyboard
 
 
 ### We can have coffee conversations here:
