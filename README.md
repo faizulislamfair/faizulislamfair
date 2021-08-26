@@ -1,4 +1,6 @@
-## Hi, I'm Fair (actually my name is Fair anyways) 
+## Hi, I'm Fair (actually my name is Fair anyways)
+
+- Studying in ECE at RUET
 
 
 ## I'm a Student, Developer, Guitarist & Content Writer!
@@ -56,10 +58,6 @@
 [![Fair's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizulislamfair)](https://github.com/faizulislamfair/github-readme-stats)
 
 <br />
-
-**Now Playing** on Spotify,
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cw4iswu27cxh3xdsyigezadrjq&cover_image=true&theme=novatorem)](https://github.com/faizulislamfair/spotify-github-profile)
 
 
 
