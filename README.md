@@ -1,12 +1,13 @@
 ### Hi, I'm Fair (actually my name is Fair anyways) 
 
 
-## I'm a Student, Developer and Guitarist!
+## I'm a Student, Developer, Guitarist & Content Writer!
 
 -  I’m pretty much trying to grab a stack!
 -  Looking to collaborate with other developers!
 -  2021 Goals: To get showered with positivity!
 -  I love to play guitar, harmonica & piano/keyboard!
+-  Learning about out of the box stuffs & articles keep me flabbergasted! 
 -  Let's talk about the things which keep you alive & wreak havoc in your senses!
 
 
