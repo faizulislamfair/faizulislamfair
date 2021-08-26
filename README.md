@@ -49,6 +49,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizulislamfair&layout=compact)](https://github.com/faizulislamfair/github-readme-stats)
 
+<br />
+
+[![Fair's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizulislamfair)](https://github.com/faizulislamfair/github-readme-stats)
+
+
 
 
 
