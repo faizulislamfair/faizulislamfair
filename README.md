@@ -44,6 +44,7 @@
 [linkedin]: https://www.linkedin.com/in/s-m-faizul-islam-fair-767790109/
 [pinterest]: https://www.pinterest.com/Fair_Fair_Fair/
 [instagram]: https://www.instagram.com/_rose_coloured_glasses/
+{telegram]: https://t.me/Faizul_Islam_Fair
 
 <br />
 
