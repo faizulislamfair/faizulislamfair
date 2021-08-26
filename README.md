@@ -54,7 +54,7 @@
 
 <br />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cw4iswu27cxh3xdsyigezadrjq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cw4iswu27cxh3xdsyigezadrjq&cover_image=true&theme=novatorem)](https://github.com/faizulislamfair/spotify-github-profile)
 
 
 
