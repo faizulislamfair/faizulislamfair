@@ -1,4 +1,4 @@
-## Hi, I'm Fair (actually my name is Fair anyways)
+## Hi, I'm Fair (actually, my name is Fair anyways)
 
 - Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Studying in [ECE](https://www.ece.ruet.ac.bd/) at [RUET](https://www.ruet.ac.bd/)
