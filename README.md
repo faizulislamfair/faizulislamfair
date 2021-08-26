@@ -52,6 +52,10 @@
 
 [![Fair's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizulislamfair)](https://github.com/faizulislamfair/github-readme-stats)
 
+<br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cw4iswu27cxh3xdsyigezadrjq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
