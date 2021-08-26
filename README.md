@@ -1,7 +1,8 @@
 ## Hi, I'm Fair (actually my name is Fair anyways)
 
-- Studying in [ECE](https://www.ece.ruet.ac.bd/) at [RUET](https://www.ruet.ac.bd/)
 - Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
+- Studying in [ECE](https://www.ece.ruet.ac.bd/) at [RUET](https://www.ruet.ac.bd/)
+
 
 
 ## I'm a Student, Developer, Guitarist & Content Writer!
