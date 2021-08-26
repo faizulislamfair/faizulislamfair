@@ -17,7 +17,7 @@
 [<img align="left" alt="faizulislamfair | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="faizulislamfair | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="faizulislamfair | Pinterest" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
-[<img align="left" alt="faizulislamfair | Pinterest" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="faizulislamfair | Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -44,7 +44,7 @@
 [linkedin]: https://www.linkedin.com/in/s-m-faizul-islam-fair-767790109/
 [pinterest]: https://www.pinterest.com/Fair_Fair_Fair/
 [instagram]: https://www.instagram.com/_rose_coloured_glasses/
-{telegram]: https://t.me/Faizul_Islam_Fair
+[telegram]: https://t.me/Faizul_Islam_Fair
 
 <br />
 
