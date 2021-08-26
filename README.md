@@ -10,7 +10,7 @@
 -  I’m pretty much trying to grab a stack!
 -  Looking to collaborate with other developers!
 -  2021 Goals: To get showered with positivity!
--  Novels & Music absorb half of my day
+-  Novels & music absorb half of my day
 -  I love to play guitar, harmonica & piano/keyboard!
 -  Learning about out of the box stuffs & articles keep me flabbergasted! 
 -  Let's talk about the things which keep you alive & wreak havoc in your senses!
