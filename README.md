@@ -58,7 +58,9 @@
 
 <br />
 
-[![Fair's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizulislamfair)](https://github.com/faizulislamfair/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulislamfair&layout=compact&theme=vision-friendly-dark" width="500" height="300">
+</p>
 
 <br />
 
