@@ -54,12 +54,8 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizulislamfair&layout=compact)](https://github.com/faizulislamfair/github-readme-stats)
-
-<br />
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulislamfair&layout=compact&theme=vision-friendly-dark" width="500" height="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizulislamfair&layout=compact&theme=vision-friendly-dark" width="400" height="250">
 </p>
 
 <br />
