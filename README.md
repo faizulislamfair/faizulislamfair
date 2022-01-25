@@ -9,7 +9,7 @@
 
 -  I’m pretty much trying to grab a stack!
 -  Looking to collaborate with other developers!
--  2021 Goals: To get showered with positivity!
+-  2022 Goals: To swim in the ocean of positivity and achieving eternal peace of mind!
 -  Novels & music absorb half of my day!
 -  I love to play guitar, harmonica & piano/keyboard!
 -  Learning about out of the box stuffs & articles keep me flabbergasted! 
