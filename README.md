@@ -1,6 +1,7 @@
 ## Hi, I'm Fair (actually, my name is Fair anyways)
 
-- Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
+- Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
+- Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Studying B.Sc in [ECE](https://www.ece.ruet.ac.bd/) at [RUET](https://www.ruet.ac.bd/)
 
 
@@ -50,7 +51,7 @@
 [linkedin]: https://www.linkedin.com/in/s-m-faizul-islam-fair-767790109/
 [pinterest]: https://www.pinterest.com/Fair_Fair_Fair/
 [instagram]: https://www.instagram.com/_rose_coloured_glasses/
-[telegram]: https://t.me/Faizul_Islam_Fair
+[telegram]: https://t.me/ataraxia_void
 
 <br />
 
