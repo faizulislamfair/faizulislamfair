@@ -16,6 +16,17 @@
 -  Learning about out of the box stuffs & articles keep me flabbergasted! 
 -  Let's talk about the things which keep you alive & wreak havoc in your senses!
 
+### Read some of my blogs perhaps!
+
+- [Easy-Breezy Clarifications of Git Commands](https://dev.to/faizul_islam/easy-breezy-clarifications-of-git-commands-4pll)
+
+
+### Checkout my blog sites:
+
+[<img align="left" alt="faizulislamfair | Dev.to" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]
+
+<br />
+<br />
 
 ### We can have coffee conversations here:
 
@@ -47,11 +58,13 @@
 <br />
 <br />
 
+[dev-dot-to]: https://dev.to/faizul_islam
 [facebook]: https://www.facebook.com/faizulislam.fair/
 [linkedin]: https://www.linkedin.com/in/s-m-faizul-islam-fair-767790109/
 [pinterest]: https://www.pinterest.com/Fair_Fair_Fair/
 [instagram]: https://www.instagram.com/_rose_coloured_glasses/
 [telegram]: https://t.me/ataraxia_void
+
 
 <br />
 
