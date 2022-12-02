@@ -25,7 +25,7 @@
 
 ### Checkout my blog sites:
 
-[<img align="left" alt="faizulislamfair | Dev.to" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]  
+[<img align="left" alt="faizulislamfair | Dev.to" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]  
 
 [<img align="" alt="faizulislamfair | Medium" width="38px" style="transform: translateY(7px)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
