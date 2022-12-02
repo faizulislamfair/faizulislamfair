@@ -27,7 +27,7 @@
 
 [<img align="left" alt="faizulislamfair | Dev.to" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]  
 
-[<img align="left" style="transform: translate(5px, 2px)" alt="faizulislamfair | Medium" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="faizulislamfair | Medium" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <br />
 <br />
