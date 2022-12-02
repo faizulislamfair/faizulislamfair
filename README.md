@@ -20,11 +20,14 @@
 
 - [Easy-Breezy Clarifications of Git Commands](https://dev.to/faizul_islam/easy-breezy-clarifications-of-git-commands-4pll)
 - [Recalling NPM Commands to Your Heart's Content](https://dev.to/faizul_islam/recalling-npm-commands-to-your-hearts-content-gm2)
+- [Mastering Space and Time](https://medium.com/@faizulislamfair/mastering-space-and-time-d3bf89161a74)
 
 
 ### Checkout my blog sites:
 
-[<img align="left" alt="faizulislamfair | Dev.to" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]
+[<img align="left" alt="faizulislamfair | Dev.to" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]  
+
+[<img align="left" style="transform: translate(5px, 2px)" alt="faizulislamfair | Medium" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <br />
 <br />
@@ -60,6 +63,7 @@
 <br />
 
 [dev-dot-to]: https://dev.to/faizul_islam
+[medium]: https://medium.com/@faizulislamfair
 [facebook]: https://www.facebook.com/faizulislam.fair/
 [linkedin]: https://www.linkedin.com/in/s-m-faizul-islam-fair-767790109/
 [pinterest]: https://www.pinterest.com/Fair_Fair_Fair/
