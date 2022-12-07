@@ -65,7 +65,7 @@
 [dev-dot-to]: https://dev.to/faizul_islam
 [medium]: https://medium.com/@faizulislamfair
 [facebook]: https://www.facebook.com/faizulislam.fair/
-[linkedin]: https://www.linkedin.com/in/s-m-faizul-islam-fair-767790109/
+[linkedin]: https://www.linkedin.com/in/s-m-faizul-islam/
 [pinterest]: https://www.pinterest.com/Fair_Fair_Fair/
 [instagram]: https://www.instagram.com/_rose_coloured_glasses/
 [telegram]: https://t.me/ataraxia_void
