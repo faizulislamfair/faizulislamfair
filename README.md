@@ -49,7 +49,7 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/devtools-3984FF?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -89,7 +89,7 @@
 [facebook]: https://www.facebook.com/faizulislam.fair/
 [linkedin]: https://www.linkedin.com/in/s-m-faizul-islam-fair-767790109/
 [pinterest]: https://www.pinterest.com/Fair_Fair_Fair/
-[instagram]: https://www.instagram.com/_rose_coloured_glasses/
+[instagram]: https://www.instagram.com/_____.fair._____/
 [telegram]: https://t.me/ataraxia_void
 
 
