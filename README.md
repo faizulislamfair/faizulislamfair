@@ -50,7 +50,7 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/devtools-3984FF?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-BEBEBE?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
