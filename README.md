@@ -14,6 +14,7 @@
 
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -49,7 +50,7 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/devtools-3984FF?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Figma](https://img.shields.io/badge/figma-BEBEBE?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -68,6 +69,7 @@
 ### Read some of my blogs perhaps!
 
 - [Mastering Space and Time](https://medium.com/@faizulislamfair/mastering-space-and-time-d3bf89161a74)
+- [IEEE Region 10](https://ieeeruetsb.net/about-r10/)
 - [Easy-Breezy Clarifications of Git Commands](https://dev.to/faizul_islam/easy-breezy-clarifications-of-git-commands-4pll)
 - [Recalling NPM Commands to Your Heart's Content](https://dev.to/faizul_islam/recalling-npm-commands-to-your-hearts-content-gm2)
 
