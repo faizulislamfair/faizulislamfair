@@ -2,7 +2,7 @@
 ### This is S.M. Faizul Islam Fair, a <b>Full-stack Developer</b> (specialising in <b>React</b> Applications)
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
-- Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
+- Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Studying B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
 -  I love to play guitar, harmonica & piano, novels & music absorb half of my day 
@@ -20,8 +20,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### <b>Comfortable</b>
 
+### <b>Comfortable</b>
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![ES6](https://img.shields.io/badge/ES6-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap5](https://img.shields.io/badge/bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,14 +35,15 @@
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 ### <b>Familiar</b>
 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 ### <b>Tools</b>
 
