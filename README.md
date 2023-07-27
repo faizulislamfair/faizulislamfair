@@ -1,11 +1,11 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-### This is S.M. Faizul Islam Fair, a <b>Full-stack Developer</b> (specialising in <b>React</b> Applications)
+### This is S.M. Faizul Islam Fair, a <b>Full-Stack Developer</b> specialising in <b>React.js (MERN Stack)</b> Applications & NLP Enthusiast!
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Studying B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
--  I love to play guitar, harmonica & piano, novels & music absorb half of my day 
+-  I love to play guitar, harmonica & piano; novels & music absorb half of my day 
 
 <br/>
 
