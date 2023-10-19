@@ -2,11 +2,19 @@
 ### This is S.M. Faizul Islam Fair, a <b>Full-Stack Developer</b> specialising in <b>React.js (MERN Stack)</b> Applications & NLP Enthusiast!
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
+- Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
+- Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/)
 - Studying B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
 -  I love to play guitar, harmonica & piano; novels & music absorb half of my day 
 
+
+## <b>Achievements</b>
+⭐ Golden Boy Award for outstanding performance from St. Joseph Higher Secondary School (Batch-2018) <br/>
+🥇 Champion of IEEE Region 10 Student Branch Website Contest for the year 2021 (IEEE RUET Student Branch) <br/>
+🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
+🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon)
 <br/>
 
 ## <b>Skills</b>
