@@ -1,5 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-### This is S.M. Faizul Islam Fair, a <b>Full-Stack Developer</b> specialising in <b>React.js (MERN Stack)</b> Applications & NLP Enthusiast!
+### This is [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/), a <b>Full-Stack Developer</b> specialising in <b>React.js (MERN Stack)</b> Applications & NLP Enthusiast!
+- Portfolio Site
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
@@ -10,12 +11,14 @@
 -  I love to play guitar, harmonica & piano; novels & music absorb half of my day 
 
 
-## <b>Achievements</b>
+## <b>Achievements & Awards</b>
 ⭐ Golden Boy Award for outstanding performance from St. Joseph Higher Secondary School (Batch-2018) <br/>
 🥇 Champion of IEEE Region 10 Student Branch Website Contest for the year 2021 (IEEE RUET Student Branch) <br/>
 🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
-🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon)
-<br/>
+🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon) <br/>
+🏅7th in LFR Contest at BEC Robo Mania 2019, BUBT <br/>
+👌Perfect Attendance Certificate from St. Joseph Higher Secondary School<br/>
+🎙️Spelling Bee Bangladesh (Oral Round) x 2 Times
 
 ## <b>Skills</b>
 ### <b>Languages</b>
