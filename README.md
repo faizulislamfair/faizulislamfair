@@ -1,5 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-### [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/) is specialising in <b>React.js, Next.js (MERN Stack)</b> Applications & NLP Enthusiast!
+### <u>[S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/)</u> is specialising in <b>React.js (MERN Stack), Next.js</b> Applications & NLP Enthusiast!
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
 - Frontend Engineer at [Intelsense AI Limited](https://www.intelsense.ai/)
