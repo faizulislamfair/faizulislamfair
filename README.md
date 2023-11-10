@@ -2,7 +2,7 @@
 ### [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/) is a <b>Full-Stack Developer</b> specialising in <b>React.js (MERN Stack)</b> Applications & NLP Enthusiast!
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
-- Full-stack Developer at [Intelsense AI Limited](https://www.intelsense.ai/)
+- Frontend Engineer at [Intelsense AI Limited](https://www.intelsense.ai/)
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
