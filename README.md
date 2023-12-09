@@ -2,8 +2,8 @@
 ### <u>[S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/)</u> is specialising in <b>React.js (MERN Stack), Next.js</b> Applications & NLP Enthusiast!
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
-- Frontend Engineer at [Intelsense AI Limited](https://www.intelsense.ai/)
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
+- Former Frontend Engineer (Intern) at [Intelsense AI Limited](https://www.intelsense.ai/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/)
