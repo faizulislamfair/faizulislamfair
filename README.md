@@ -71,7 +71,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br />
-<br />
 
 
 ### Soft Skills:
@@ -82,19 +81,20 @@
 - 🎤 Public Speaking 
 - 🤝 Volunteering 
 
-<br />
+
 <br />
 
-### Checkout my blog sites:
+### Checkout My Blog Sites
 
 [<img align="left" alt="faizulislamfair | Dev.to" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]  
 
 [<img align="left" alt="faizulislamfair | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
+
 <br />
 <br />
 
-### Read some of my blogs perhaps!
+### Read Some of My Blogs Perhaps!
 
 - [Mastering Space and Time](https://medium.com/@faizulislamfair/mastering-space-and-time-d3bf89161a74)
 - [IEEE Region 10](https://ieeeruetsb.net/about-r10/)
@@ -103,7 +103,7 @@
 
 <br />
 
-### We can have coffee conversations here:
+### We Can Have Coffee Conversations Here!
 
 [<img align="left" alt="faizulislamfair | Facebook" width="39px" src="facebook.png" />][facebook]
 [<img align="left" alt="faizulislamfair | LinkedIn" width="41px" src="linkedin.png" />][linkedin]
