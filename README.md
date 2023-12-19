@@ -73,7 +73,7 @@
 <br />
 
 
-### Soft Skills
+## Soft Skills
 
 - 🚀 Team Leadership 
 - 📅 Event Management 
@@ -84,7 +84,7 @@
 
 <br />
 
-### Checkout My Blog Sites
+## Checkout My Blog Sites
 
 [<img align="left" alt="faizulislamfair | Dev.to" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]  
 
@@ -94,7 +94,7 @@
 <br />
 <br />
 
-### Read Some of My Blogs Perhaps!
+## Read Some of My Blogs Perhaps!
 
 - [Mastering Space and Time](https://medium.com/@faizulislamfair/mastering-space-and-time-d3bf89161a74)
 - [IEEE Region 10](https://ieeeruetsb.net/about-r10/)
@@ -103,7 +103,7 @@
 
 <br />
 
-### We Can Have Coffee Conversations Here!
+## We Can Have Coffee Conversations Here!
 
 [<img align="left" alt="faizulislamfair | Facebook" width="39px" src="facebook.png" />][facebook]
 [<img align="left" alt="faizulislamfair | LinkedIn" width="41px" src="linkedin.png" />][linkedin]
