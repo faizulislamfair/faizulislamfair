@@ -21,7 +21,7 @@
 👌Perfect Attendance Certificate from St. Joseph Higher Secondary School<br/>
 🎙️Spelling Bee Bangladesh (Oral Round) x 2 Times
 
-## <b>Skills</b>
+## <b>Technology Domain</b>
 ### <b>Languages</b>
 
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=)
@@ -52,6 +52,7 @@
 
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/machine_learning-7D786A?style=for-the-badge&logo=machinelearning&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -60,13 +61,26 @@
 ### <b>Tools</b>
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=)
+![Jira](https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=)
 ![Chrome DevTools](https://img.shields.io/badge/devtools-3984FF?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br />
+<br />
+
+
+### Soft Skills:
+
+- 🚀 Team Leadership 
+- 📅 Event Management 
+- ⏰ Time Management 
+- 🎤 Public Speaking 
+- 🤝 Volunteering 
 
 <br />
 <br />
