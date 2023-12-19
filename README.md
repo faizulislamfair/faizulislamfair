@@ -73,7 +73,7 @@
 <br />
 
 
-### Soft Skills:
+### Soft Skills
 
 - 🚀 Team Leadership 
 - 📅 Event Management 
