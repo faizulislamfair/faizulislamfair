@@ -75,11 +75,11 @@
 
 ## Soft Skills
 
-- 🚀 Team Leadership 
-- 📅 Event Management 
-- ⏰ Time Management 
-- 🎤 Public Speaking 
-- 🤝 Volunteering 
+- Team Leadership 🚀 
+- Event Management 📅 
+- Time Management ⏰ 
+- Public Speaking 🎤
+- Volunteering 🤝 
 
 
 <br />
