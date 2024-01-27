@@ -17,6 +17,7 @@
 🥇 Champion of IEEE Region 10 Student Branch Website Contest for the year 2021 (IEEE RUET Student Branch) <br/>
 🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
 🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon) <br/>
+✅ Microsoft Imagine Cup 2024 Qualified (MVP Round)
 🏅7th in LFR Contest at BEC Robo Mania 2019, BUBT <br/>
 👌Perfect Attendance Certificate from St. Joseph Higher Secondary School<br/>
 🎙️Spelling Bee Bangladesh (Oral Round) x 2 Times
