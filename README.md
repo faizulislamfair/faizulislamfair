@@ -1,5 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-### <u>[S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/)</u> is specialising in <b>React.js (MERN Stack), Next.js</b> Applications & NLP Enthusiast!
+### <u>[S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/)</u> is specialising in React.js (MERN Stack), Next.js Applications, practicing DSA & NLP Enthusiast!
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
