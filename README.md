@@ -4,7 +4,6 @@
 
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
 - Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
-- Former Frontend Engineer (Intern) at [Intelsense AI Limited](https://www.intelsense.ai/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/)
