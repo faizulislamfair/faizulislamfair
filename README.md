@@ -75,6 +75,7 @@
 ## Soft Skills
 
 - Team Leadership 🚀 
+- Communication 📞
 - Event Management 📅 
 - Time Management ⏰ 
 - Public Speaking 🎤
