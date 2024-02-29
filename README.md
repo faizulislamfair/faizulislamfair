@@ -26,6 +26,12 @@
 <br/>
 
 
+## Resume
+[Checkout My Resume](https://drive.google.com/file/d/1SW0aUttRUf_y2QsfKvQk5fpCrzNTFRzD/view)
+
+<br />
+
+
 ## <b>Technology Domain</b>
 ### <b>Languages</b>
 
@@ -87,11 +93,6 @@
 - Public Speaking 🎤
 - Volunteering 🤝 
 
-
-<br />
-
-## Resume
-[Checkout My Resume](https://drive.google.com/file/d/1SW0aUttRUf_y2QsfKvQk5fpCrzNTFRzD/view)
 
 <br />
 
