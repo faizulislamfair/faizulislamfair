@@ -28,7 +28,7 @@
 
 
 ## Resume
-[Checkout My Resume](https://drive.google.com/file/d/1SW0aUttRUf_y2QsfKvQk5fpCrzNTFRzD/view)
+Checkout My [Resume](https://drive.google.com/file/d/1SW0aUttRUf_y2QsfKvQk5fpCrzNTFRzD/view)
 
 <br />
 
