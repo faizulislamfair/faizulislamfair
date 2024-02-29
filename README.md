@@ -10,6 +10,8 @@
 - Studying B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
 -  I love to play guitar, harmonica & piano; novels & music absorb half of my day 
 
+<br/>
+
 
 ## <b>Achievements & Awards</b>
 ⭐ Golden Boy Award for outstanding performance from St. Joseph Higher Secondary School (Batch-2018) <br/>
@@ -17,9 +19,12 @@
 🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
 🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon) <br/>
 🏅 Microsoft Imagine Cup 2024 Qualified (MVP Round) <br/>
-🎉 Finalist in Project Competition at National STEAM Olympiad
-👌 Perfect Attendance Certificate from St. Joseph Higher Secondary School<br/>
+🎉 Finalist in Project Competition at National STEAM Olympiad <br/>
+👌 Perfect Attendance Certificate from St. Joseph Higher Secondary School <br/>
 🎙️ Spelling Bee Bangladesh (Oral Round) x 2 Times
+
+<br/>
+
 
 ## <b>Technology Domain</b>
 ### <b>Languages</b>
