@@ -17,6 +17,7 @@
 🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
 🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon) <br/>
 🏅 Microsoft Imagine Cup 2024 Qualified (MVP Round) <br/>
+🎉 Finalist in Project Competition at National STEAM Olympiad
 👌 Perfect Attendance Certificate from St. Joseph Higher Secondary School<br/>
 🎙️ Spelling Bee Bangladesh (Oral Round) x 2 Times
 
@@ -83,6 +84,18 @@
 
 
 <br />
+
+## Resume
+[Checkout My Resume](https://drive.google.com/file/d/1SW0aUttRUf_y2QsfKvQk5fpCrzNTFRzD/view)
+
+<br />
+
+
+## Publication
+[Mastering Space and Time](https://drive.google.com/drive/folders/1Nqi-jO1x0aO0QmDDVJMnC9m3e3UfbePC)
+
+<br />
+
 
 ## Checkout My Blog Sites
 
