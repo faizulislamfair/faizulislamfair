@@ -2,8 +2,8 @@
 ### <u>[S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/)</u> is specialising in React.js (MERN Stack), Next.js Applications, practicing Data Structures and Algorithms & NLP Enthusiast!
 ### I'm a Student, Developer, Guitarist & Content Writer!
 
-- Software Engineer at [Softsynix]()
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
+- Software Engineer at [Softsynix]()
 - Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
