@@ -1,36 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ### <u>[S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/)</u> is practicing Data Structures & Algorithms, React.js (MERN Stack) and Next.js applications!
-### I'm a Student, Developer, Guitarist & Content Writer!
-
-- Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
-- Software Engineer at [Softsynix]()
-- Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
-- Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
-- Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
-- Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/)
-- Studying B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
--  I love to play guitar, harmonica & piano; novels & music absorb half of my day 
-
-<br/>
-
-
-## <b>Achievements & Awards</b>
-⭐ Golden Boy Award for outstanding performance from St. Joseph Higher Secondary School (Batch-2018) <br/>
-🥇 Champion of IEEE Region 10 Student Branch Website Contest for the year 2021 (IEEE RUET Student Branch) <br/>
-🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
-🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon) <br/>
-🏅 Microsoft Imagine Cup 2024 Qualified (MVP Round) <br/>
-🎉 Finalist in Project Competition at National STEAM Olympiad <br/>
-👌 Perfect Attendance Certificate from St. Joseph Higher Secondary School <br/>
-🎙️ Spelling Bee Bangladesh (Oral Round) x 2 Times
-
-<br/>
-
-
-## Resume
-Checkout My [Resume](https://drive.google.com/file/d/1bYJpbGs11FAcCR4dats6E1S-rrW2L26F/view?usp=sharing)
-
-<br />
 
 
 ## <b>Technology Domain</b>
@@ -83,6 +52,41 @@ Checkout My [Resume](https://drive.google.com/file/d/1bYJpbGs11FAcCR4dats6E1S-rr
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br />
+
+
+### I'm a Student, Developer, Guitarist & Content Writer!
+
+- Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
+- Software Engineer at [Softsynix]()
+- Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
+- Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
+- Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
+- Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/)
+- Studying B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
+-  I love to play guitar, harmonica & piano; novels & music absorb half of my day 
+
+<br/>
+
+
+## <b>Achievements & Awards</b>
+⭐ Golden Boy Award for outstanding performance from St. Joseph Higher Secondary School (Batch-2018) <br/>
+🥇 Champion of IEEE Region 10 Student Branch Website Contest for the year 2021 (IEEE RUET Student Branch) <br/>
+🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
+🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon) <br/>
+🏅 Microsoft Imagine Cup 2024 Qualified (MVP Round) <br/>
+🎉 Finalist in Project Competition at National STEAM Olympiad <br/>
+👌 Perfect Attendance Certificate from St. Joseph Higher Secondary School <br/>
+🎙️ Spelling Bee Bangladesh (Oral Round) x 2 Times
+
+<br/>
+
+
+## Resume
+Checkout My [Resume](https://drive.google.com/file/d/1bYJpbGs11FAcCR4dats6E1S-rrW2L26F/view?usp=sharing)
+
+<br />
+
+
 
 
 ## Soft Skills
