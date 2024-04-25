@@ -86,7 +86,7 @@
 
 
 ## Resume
-Checkout My [Resume](https://drive.google.com/file/d/1giPSMSDhrJgqw3kEVWVM1QHoaUewwHXO/view?usp=sharing)
+Checkout My [Resume](https://drive.google.com/file/d/1uzkjKetNqH8hgHxYiYD0U2N8XXDmobhF/view?usp=sharing)
 
 <br />
 
