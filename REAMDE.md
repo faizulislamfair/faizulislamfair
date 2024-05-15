@@ -158,12 +158,3 @@ Checkout My [Resume](https://drive.google.com/file/d/1uzkjKetNqH8hgHxYiYD0U2N8XX
 </p>
 
 <br />
-
-
-
-
-
-
-
-
-
