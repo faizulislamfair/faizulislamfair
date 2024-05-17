@@ -59,7 +59,7 @@
 <br />
 
 
-### I'm a Student, Developer, Guitarist & Content Writer!
+## <b>I'm a Student, Developer, Guitarist & Content Writer!</b>
 
 - Software Engineer at [Softsynix]()
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
@@ -84,7 +84,7 @@
 🎙️ Spelling Bee Bangladesh (Oral Round) x 2 Times
 
 
-<img alt="NASA Space Apps Challenge | National Hackathon" width="1080px" src="nasa_space_apps_challenge.jpg" />
+<img alt="NASA Space Apps Challenge | National Hackathon" width="700px" src="nasa_space_apps_challenge.jpg" />
 
 
 <br/>
