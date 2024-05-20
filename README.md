@@ -140,8 +140,6 @@ Checkout My [Resume](https://drive.google.com/file/d/1uzkjKetNqH8hgHxYiYD0U2N8XX
 
 [<img align="left" alt="faizulislamfair | Facebook" width="39px" src="facebook.png" />][facebook]
 [<img align="left" alt="faizulislamfair | LinkedIn" width="41px" src="linkedin.png" />][linkedin]
-[<img align="left" alt="faizulislamfair | Instagram" width="43px" src="instagram.png" />][instagram]
-[<img align="left" alt="faizulislamfair | Pinterest" width="40px" src="pinterest.png" />][pinterest]
 [<img align="left" alt="faizulislamfair | Telegram" width="40px" src="telegram.png" />][telegram]
 
 <br />
