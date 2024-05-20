@@ -59,7 +59,7 @@
 <br />
 
 
-## <b>I'm a Student, Developer, Guitarist & Content Writer!</b>
+## <b>I'm a Student, Developer & Content Writer!</b>
 
 - Software Engineer at [Softsynix]()
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
@@ -68,7 +68,7 @@
 - Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/) (ID Link: [faizul-islam33](https://github.com/faizul-islam33))
 - Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
 - Studying B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
--  I love to play guitar, harmonica & piano; novels & music absorb half of my day 
+
 
 <br/>
 
