@@ -59,7 +59,7 @@
 <br />
 
 
-## <b>I'm a Student, Developer & Content Writer!</b>
+## <b>I'm a Student, Developer, Team Lead, Convener & Content Writer!</b>
 
 - Software Engineer at [Softsynix]()
 - Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
