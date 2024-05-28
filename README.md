@@ -1,10 +1,10 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hi there! 
 
 ### This is [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/) 
 ### Portfolio Site: [<u>https://faizul-islam.vercel.app/</u>](https://faizul-islam.vercel.app/)
 
 
-## <b>Technology Domain</b>
+## <b>🖥️ Technology Domain</b>
 ### <b>Languages</b>
 
 
@@ -59,7 +59,7 @@
 <br />
 
 
-## <b>I'm a Student, Developer, Team Lead, Convener & Content Writer!</b>
+## <b>🚀 I'm a Student, Developer, Team Lead, Convener & Content Writer!</b>
 
 - Software Engineer at [Softsynix]()
 - Former Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
@@ -73,7 +73,7 @@
 <br/>
 
 
-## <b>Achievements & Awards</b>
+## <b>✨ Achievements & Awards</b>
 ⭐ Golden Boy Award for outstanding performance from St. Joseph Higher Secondary School (Batch-2018) <br/>
 🥇 Champion of IEEE Region 10 Student Branch Website Contest for the year 2021 (IEEE RUET Student Branch) <br/>
 🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
@@ -90,7 +90,7 @@
 <br/>
 
 
-## Resume
+## 📄 Resume
 Checkout My [Resume](https://drive.google.com/file/d/1uzkjKetNqH8hgHxYiYD0U2N8XXDmobhF/view?usp=sharing)
 
 <br />
@@ -98,7 +98,7 @@ Checkout My [Resume](https://drive.google.com/file/d/1uzkjKetNqH8hgHxYiYD0U2N8XX
 
 
 
-## Soft Skills
+## 🎯 Soft Skills
 
 - Team Leadership 🚀 
 - Communication 📞
@@ -111,13 +111,13 @@ Checkout My [Resume](https://drive.google.com/file/d/1uzkjKetNqH8hgHxYiYD0U2N8XX
 <br />
 
 
-## Publication
+## 📰 Publication
 [Mastering Space and Time](https://drive.google.com/drive/folders/1Nqi-jO1x0aO0QmDDVJMnC9m3e3UfbePC)
 
 <br />
 
 
-## Checkout My Blog Sites
+## ✍️ Checkout My Blog Sites
 
 [<img align="left" alt="faizulislamfair | Dev.to" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]  
 
@@ -127,7 +127,7 @@ Checkout My [Resume](https://drive.google.com/file/d/1uzkjKetNqH8hgHxYiYD0U2N8XX
 <br />
 <br />
 
-## Read Some of My Blogs Perhaps!
+## 📖 Read Some of My Blogs Perhaps!
 
 - [Mastering Space and Time](https://medium.com/@faizulislamfair/mastering-space-and-time-d3bf89161a74)
 - [IEEE Region 10](https://ieeeruetsb.net/about-r10/)
@@ -136,7 +136,7 @@ Checkout My [Resume](https://drive.google.com/file/d/1uzkjKetNqH8hgHxYiYD0U2N8XX
 
 <br />
 
-## We Can Have Coffee Conversations Here!
+## 🥤 We Can Have Coffee Conversations Here!
 
 [<img align="left" alt="faizulislamfair | Facebook" width="39px" src="facebook.png" />][facebook]
 [<img align="left" alt="faizulislamfair | LinkedIn" width="41px" src="linkedin.png" />][linkedin]
