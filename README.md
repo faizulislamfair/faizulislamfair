@@ -78,7 +78,7 @@
 ⭐ Golden Boy Award for outstanding performance from St. Joseph Higher Secondary School (Batch-2018) <br/>
 🥇 Champion of IEEE Region 10 Student Branch Website Contest for the year 2021 (IEEE RUET Student Branch) <br/>
 🥈 1st Runner Up of IEEE Student Branch Website Contest by IEEE Bangladesh Section (IEEE RUET Student Branch) <br/>
-🥉 2nd Runner Up of NASA International Space Apps Challenge, Bangladesh, 2023 (National Hackathon) <br/>
+🥉 2nd Runner Up of NASA Space Apps Challenge, Bangladesh, 2023 (National Hackathon) <br/>
 🏅 Microsoft Imagine Cup 2024 Qualified (MVP Round) <br/>
 🎉 Finalist in Project Competition at National STEAM Olympiad <br/>
 👌 Perfect Attendance Certificate from St. Joseph Higher Secondary School <br/>
