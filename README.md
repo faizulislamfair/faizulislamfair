@@ -15,6 +15,8 @@
 
 
 ### <b>Skills</b>
+
+![Object Oriented Programming (OOP)](https://img.shields.io/badge/object_oriented_programming_(OOP)-blue?style=for-the-badge&logo=oop&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![ES6](https://img.shields.io/badge/ES6-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
