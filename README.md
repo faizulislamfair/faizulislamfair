@@ -136,9 +136,13 @@
 
 ## ☕️ You're welcome to have conversations here!
 
-[<img align="left" alt="faizulislamfair | Facebook" width="39px" src="facebook.png" />][facebook]
+<a href="mailto: faizulislamfair@gmail.com">
+<img align="left" style="margin-right: 3px" alt="faizulislamfair | Mail" width="39px" src="gmail.png" />
+</a> 
+
 [<img align="left" alt="faizulislamfair | LinkedIn" width="41px" src="linkedin.png" />][linkedin]
 [<img align="left" alt="faizulislamfair | Telegram" width="40px" src="telegram.png" />][telegram]
+[<img align="left" alt="faizulislamfair | Facebook" width="39px" src="facebook.png" />][facebook]
 
 <br />
 <br />
