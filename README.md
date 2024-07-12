@@ -134,7 +134,7 @@
 
 <br />
 
-## ☕️ We Can Have Coffee Conversations Here!
+## ☕️ You're welcome for conversations here!
 
 [<img align="left" alt="faizulislamfair | Facebook" width="39px" src="facebook.png" />][facebook]
 [<img align="left" alt="faizulislamfair | LinkedIn" width="41px" src="linkedin.png" />][linkedin]
