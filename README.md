@@ -65,7 +65,7 @@
 
 ## <b>🚀 I'm a Developer, Team Lead, Convener & Content Writer!</b>
 
-- Software Engineer at [Softsynix]()
+- Software Engineer (Part-time) at [Softsynix]()
 - Former Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
@@ -134,7 +134,7 @@
 
 <br />
 
-## ☕️ You're welcome for conversations here!
+## ☕️ You're welcome to have conversations here!
 
 [<img align="left" alt="faizulislamfair | Facebook" width="39px" src="facebook.png" />][facebook]
 [<img align="left" alt="faizulislamfair | LinkedIn" width="41px" src="linkedin.png" />][linkedin]
