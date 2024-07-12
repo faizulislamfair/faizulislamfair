@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hello! 
+## Assalamu Alaikum 
 
-### I'm [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/) 
-### Portfolio Site: [<u>https://faizul-islam.vercel.app/</u>](https://faizul-islam.vercel.app/)
+## I'm [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/) 
+## Portfolio Site: [<u>https://faizul-islam.vercel.app/</u>](https://faizul-islam.vercel.app/)
 
 <br/>
 
@@ -20,6 +20,7 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![ES6](https://img.shields.io/badge/ES6-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Context API](https://img.shields.io/badge/Context_API-3998B6?style=for-the-badge&logo=context_api&logoColor=blue)
 ![Bootstrap5](https://img.shields.io/badge/bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -62,7 +63,7 @@
 <br />
 
 
-## <b>🚀 I'm a Student, Developer, Team Lead, Convener & Content Writer!</b>
+## <b>🚀 I'm a Developer, Team Lead, Convener & Content Writer!</b>
 
 - Software Engineer at [Softsynix]()
 - Former Team Lead & Frontend Engineer (Industrial Attachment Trainee) at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
