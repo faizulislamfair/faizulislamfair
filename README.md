@@ -1,7 +1,7 @@
 ## Assalamu Alaikum 
 
 ## I'm [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/) 
-## Portfolio Site: [<u>https://faizul-islam.vercel.app/</u>](https://faizul-islam.vercel.app/)
+## Portfolio Website: [<u>https://faizul-islam.vercel.app/</u>](https://faizul-islam.vercel.app/)
 
 <br/>
 
