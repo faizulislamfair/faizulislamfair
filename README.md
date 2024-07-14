@@ -87,6 +87,7 @@
 👌 Perfect Attendance Certificate from St. Joseph Higher Secondary School <br/>
 🎙️ Spelling Bee Bangladesh (Oral Round) x 2 Times
 
+<br />
 
 <img alt="NASA Space Apps Challenge | National Hackathon" width="700px" src="nasa_space_apps_challenge.jpg" />
 
@@ -122,6 +123,7 @@
 [<img align="left" alt="faizulislamfair | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 
+<br />
 <br />
 <br />
 
