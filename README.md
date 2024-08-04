@@ -30,7 +30,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -51,7 +50,7 @@
 
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 
 
@@ -69,7 +68,7 @@
 - Former Industrial Attachment Trainee at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
-- Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
+- Former Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
 - Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/) (Link of Github ID used to contribute: [faizul-islam33](https://github.com/faizul-islam33))
 - Studying B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
 
@@ -89,10 +88,7 @@
 
 <br />
 
-<img alt="NASA Space Apps Challenge | National Hackathon" width="700px" src="nasa_space_apps_challenge.jpg" />
 
-
-<br/>
 
 
 
@@ -136,7 +132,7 @@
 
 <br />
 
-## ☕️ You're welcome to have conversations here!
+## ☕️ We can have conversations here!
 
 <a href="mailto: faizulislamfair@gmail.com">
 <img align="left" style="margin-right: 3px" alt="faizulislamfair | Mail" width="39px" src="gmail.png" />
