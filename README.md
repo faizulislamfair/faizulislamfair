@@ -62,7 +62,7 @@
 <br />
 
 
-## <b>🚀 I'm a Developer, Team Lead, Convener & Content Writer!</b>
+## <b>🚀 Experience</b>
 
 - Software Engineer (Part-time) at [Softsynix]()
 - Former Industrial Attachment Trainee at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
@@ -112,7 +112,7 @@
 <br />
 
 
-## ✍️ Checkout My Blog Sites
+## ✍️ Blog Sites
 
 [<img align="left" alt="faizulislamfair | Dev.to" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev-dot-to]  
 
@@ -123,7 +123,7 @@
 <br />
 <br />
 
-## 📖 Read Some of My Blogs Perhaps!
+## 📖 Blogs
 
 - [Mastering Space and Time](https://medium.com/@faizulislamfair/mastering-space-and-time-d3bf89161a74)
 - [IEEE Region 10](https://ieeeruetsb.net/about-r10/)
