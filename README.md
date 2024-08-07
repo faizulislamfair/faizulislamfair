@@ -64,7 +64,7 @@
 
 ## <b>🚀 Experience</b>
 
-- Software Engineer (Part-time) at [Softsynix]()
+- Former Software Engineer (Part-time) at Softsynix
 - Former Industrial Attachment Trainee at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
