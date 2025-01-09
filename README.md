@@ -1,6 +1,6 @@
 ## 👋 Hello
 
-## I'm [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/) 
+## I'm [S. M. Faizul Islam Fair](https://faizul-islam.vercel.app/) 
 ## Portfolio Website: [<u>https://faizul-islam.vercel.app/</u>](https://faizul-islam.vercel.app/)
 
 <br/>
@@ -9,7 +9,7 @@
 ### <b>Languages</b>
 
 
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript (ES6)](https://img.shields.io/badge/javascript_(es6)-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -19,7 +19,6 @@
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![ES6](https://img.shields.io/badge/ES6-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Context API](https://img.shields.io/badge/Context_API-3998B6?style=for-the-badge&logo=context_api&logoColor=blue)
 ![Bootstrap5](https://img.shields.io/badge/bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
