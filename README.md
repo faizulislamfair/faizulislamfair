@@ -65,11 +65,11 @@
 
 ## <b>🚀 Experience</b>
 
-- Trainee Software Engineer at [Echologyx Ltd.](https://echologyx.com/)
+- Trainee Software Engineer at [EchoLogyx Ltd.](https://echologyx.com/)
 - Former Industrial Attachment Trainee at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
-- Former Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
+- Former Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
 - Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/) (Link of Github ID used to contribute: [faizul-islam33](https://github.com/faizul-islam33))
 - Studied B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
 
