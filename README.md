@@ -65,7 +65,7 @@
 
 ## <b>🚀 Experience</b>
 
-- Trainee Software Engineer at [EchoLogyx Ltd.](https://echologyx.com/)
+- Former Trainee Software Engineer at [EchoLogyx Ltd.](https://echologyx.com/)
 - Former Industrial Attachment Trainee at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
