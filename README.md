@@ -47,7 +47,8 @@
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_Devtools-3984FF?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-394457?style=for-the-badge&logo=linuxcli&logoColor=fff)
 
 ### <b>Hosting Platform</b>
 
