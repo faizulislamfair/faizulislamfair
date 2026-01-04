@@ -50,7 +50,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![Linux CLI](https://img.shields.io/badge/Linux_CLI-394457?style=for-the-badge&logo=linuxcli&logoColor=fff)
 
-### <b>Hosting Platform</b>
+### <b>Cloud</b>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -77,6 +77,7 @@
 - Former Volunteer as Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
 - Former Convener at [BASIS Students' Forum RUET Chapter](https://bsf.basis.org.bd/university/Rajshahi%20University%20of%20Engineering%20&%20Technology)
 - Contributed to Open Source Projects at [Hacktoberfest 2023](https://hacktoberfest.com/) (Link of Github ID used to contribute: [faizul-islam33](https://github.com/faizul-islam33))
+- Studies [Master of Business Administration (MBA)](https://bup.edu.bd/academics/academic_details/455) at [Bangladesh University of Professionals (BUP)](https://bup.edu.bd/)
 - Studied B.Sc in [Electrical & Computer Engineering](https://www.ece.ruet.ac.bd/) at [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
 
 <br/>
