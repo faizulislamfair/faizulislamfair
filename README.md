@@ -71,6 +71,7 @@
 
 ## <b>🚀 Experience</b>
 
+- Intern Database Developer at [Bdjobs.com Ltd.](https://bdjobs.com/h/)
 - Former Trainee Software Engineer at [EchoLogyx Ltd.](https://echologyx.com/)
 - Former Industrial Attachment Trainee at [Monstarlab Bangladesh](https://monstar-lab.com/bd/)
 - Former Webmaster at [IEEE RUET Student Branch](https://ieeeruetsb.net/)
